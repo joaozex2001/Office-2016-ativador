@@ -1,0 +1,3 @@
+COMANDO PARA ATIVAR O OFFICE
+basta abrir o power shel e executar o comando
+irm https://massgrave.dev/get | iex
